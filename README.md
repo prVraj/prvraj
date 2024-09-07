@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     
 # 🖥️ Technical Skills: 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,zod,tailwind,github,figma,git" /><br/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,github,figma,git" /><br/>
     <img src="https://skillicons.dev/icons?i=bootstrap,vscode,python,c,cpp,java" /><br>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 </div>
