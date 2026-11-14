@@ -1,7 +1,3 @@
-<a href="https://impeccableui.vercel.app">
-  <img src="./assets/profile.png" width="100%" alt="Vraj Sensei, product designer who codes the details. Based in Vadodara, India, building Impeccable UI." />
-</a>
-
 ### Hi, I'm Vraj.
 
 I'm a product designer from Vadodara, India, known online as **Vraj Sensei**. I design in Figma, then code the parts I can't let go of: the timing of a motion, the weight of a shadow, the way a button answers when you come close.
